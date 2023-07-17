@@ -1,3 +1,5 @@
-# my-resume
+# HTML Resume
 
-# by Mohammad Ramzan
+# In HTML just a simple portfolio
+
+# Ⓒ Mohammad Ramzan
